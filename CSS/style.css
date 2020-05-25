@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+    /* background-image: url("../images/weavingClipart.png");
+    background-size: cover;
+    background-repeat: no-repeat; */
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 2.7em;
+    background-color: white;
+    width: 30%;
+    color: #333;
+    text-align: center;
+    margin-left: 35%;
+    text-shadow: 2px 2px 8px rgb(54, 54, 56);
+}
+
+#parentDiv {
+    width: 400px;
+    height: 400px;
+    background-color: salmon;
+    margin: 50px auto;
+    box-shadow: 5px 5px 10px 10px white;
+    border: 10px inset black;
+}
+
+div input {
+    font-size: 1.2em;
+    width: 160px;
+    margin: 80px 10px;
+    height: 40px;
+}
+
+button {
+    width: 30%;
+    height: 10%;
+    margin-left: 33%;
+    border-radius: 3px;
+}
+
+#cleanButton {
+    margin-top: 10px;
+}
