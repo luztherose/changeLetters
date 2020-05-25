@@ -7,8 +7,8 @@
         Input: "fun times!"
         outputArray: gvO Ujnft!*/
 
-let inputShowNewLetters = document.getElementById("lattersChanged");
-let buttonTranslate = document.querySelector("#changeLatters");
+let inputShowNewLetters = document.getElementById("lettersChanged");
+let buttonTranslate = document.querySelector("#changeLetters");
 let cleanButton = document.querySelector("#cleanButton");
 
 buttonTranslate.addEventListener("click", () => {
